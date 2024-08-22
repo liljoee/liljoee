@@ -1,16 +1,15 @@
-## Hi there 👋
+# Data Scientist
 
-<!--
-**liljoee/liljoee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Work Experience
+- Machine Learning Researcher @ GCash
+- Mergers & Acquisitions Associate @ PwC
 
-Here are some ideas to get you started:
+### Projects
+- Custom Named Entity Recognition
+- Look-alike Audience Modeling
+- Customer Segmentation and Profiling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Education
+- Data Science Fellowship - Eskwelabs
+- Bachelor of Science in Applied Economics - De La Salle University
+
