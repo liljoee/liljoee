@@ -1,8 +1,8 @@
 # Data Scientist
 
 ### Work Experience
-- Machine Learning Researcher @ GCash
-- Mergers & Acquisitions Associate @ PwC
+- Machine Learning Researcher @ XXX
+- Mergers & Acquisitions Associate @ XXX
 
 ### Projects
 - Custom Named Entity Recognition
@@ -10,6 +10,6 @@
 - Customer Segmentation and Profiling
 
 ### Education
-- Data Science Fellowship - Eskwelabs
-- Bachelor of Science in Applied Economics - De La Salle University
+- Data Science Fellowship - XXX
+- Bachelor of Science in Applied Economics - XXX
 
